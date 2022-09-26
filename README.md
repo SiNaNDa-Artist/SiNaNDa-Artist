@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SiNaNDa-Artist
-- 👀 I’m interested in AR/VR Art with ML
+- 👀 I’m interested in AR/VR with ML
 - 🌱 I’m currently learning ML/DL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on XR Music Games
+- 📫 How to reach me ... Email : hullhauft2097@gmail.com
 
 <!---
 SiNaNDa-Artist/SiNaNDa-Artist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
