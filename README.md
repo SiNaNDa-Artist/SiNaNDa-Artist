@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SiNaNDa-Artist
+- 👋 Hi, I’m @SiNaNDa
 - 👀 I’m interested in AR/VR with ML
 - 🌱 I’m currently learning ML/DL
 - 💞️ I’m looking to collaborate on XR Music Games
