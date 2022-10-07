@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiNaNDa
 - 👀 I’m interested in AR/VR with ML
-- 🌱 I’m currently learning ML/DL
-- 💞️ I’m looking to collaborate on XR Music Games
+- 🌱 I’m currently learning ML/DL and Stastics
+- 💞️ I’m looking to collaborate on VR/AR Music Games
 - 📫 How to reach me ... Email : hullhauft2097@gmail.com
 
 <!---
