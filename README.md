@@ -1,4 +1,4 @@
-👋 Hi, I’m SiNaNDa
+<h1 align="center">👋 Hi, I’m SiNaNDa</h1>
 
 ```
 I-am-SiNaNDa@github
